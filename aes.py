@@ -669,3 +669,8 @@ if __name__ == "__main__":
     g=open('dobe.txt',"w")
     g.write(str(ciph))
     g.close()
+    
+
+
+
+    
